@@ -1,6 +1,6 @@
 package javaSessions;
 
-public class P2_DataTypes {
+public class P02_DataTypes {
 
 	public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 package javaSessions;
 
-public class P1_Hello {
+public class P01_Hello {
 
 	public static void main(String[] args) {
 
